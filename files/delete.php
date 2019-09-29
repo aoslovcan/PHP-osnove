@@ -1,0 +1,5 @@
+<?php
+
+unlink ("obrisi.txt");
+
+?>
